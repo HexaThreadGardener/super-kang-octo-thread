@@ -14,6 +14,7 @@
 - Archer
 - joking
 - kingium
+
 ## Hot Names
 
 |Word|Contributor|Finalist|
