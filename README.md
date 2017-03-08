@@ -14,6 +14,7 @@
 - Archer
 - joking
 - kingium
+- Sun
 
 ## Hot Names
 
