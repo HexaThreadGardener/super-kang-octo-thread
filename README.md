@@ -1,6 +1,20 @@
 # super-kang-octo-thread
+## Rules  
+### dictionary
+|Word|Contributor|Finalist|
+|:--|:-----------|:-------|
+|词名或句名|第一次（在周边）可考证的说这个词的人（如果没有则为贡献者）|让这个词彻底火了的人|  
 
-# Hot Names
+
+### 涉及人名（具体是谁请自行脑补） （请自行更新）
+- ZeroWeight& ZeroWT & ZW & ZWT
+- Mcfloudinho
+- SuperK
+- YQY
+- Archer
+- joking
+- kingium
+## Hot Names
 
 |Word|Contributor|Finalist|
 |:--|:-----------|:-------|
