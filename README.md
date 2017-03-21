@@ -6,6 +6,7 @@
 |词名或句名|第一次（在周边）可考证的说这个词的人（如果没有则为贡献者）|让这个词彻底火了的人|  
 
 
+
 ### 涉及人名（具体是谁请自行脑补） （请自行更新）
 - ZeroWeight& ZeroWT & ZW & ZWT
 - Mcfloudinho
@@ -39,3 +40,9 @@
 |奥本憨|Joking|ZeroWeight&mcfloundinho|
 |你好哇，尹秋阳|mcfloundinho|你好哇，尹秋阳|
 |我已经死了，你还没死|kingium|Sun|
+
+# Contributor
+
+## [**Rust**](https://github.com/mcfloundinho/PanRust)
+
+Please contact [mcfloundinho](https://github.com/mcfloundinho) if you encounter 404.
