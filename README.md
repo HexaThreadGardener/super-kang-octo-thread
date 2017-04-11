@@ -40,7 +40,7 @@
 |奥本憨|Joking|ZeroWeight&mcfloundinho|
 |你好哇，尹秋阳|mcfloundinho|你好哇，尹秋阳|
 |我已经死了，你还没死|kingium|Sun|
-
+|![陆大爷](http://ww2.sinaimg.cn/large/006HJ39wgy1feil3xygt0j305v05ujri.jpg)|ZeroWeight|mcfloundinho|
 # Contributor
 
 ## [**Rust**](https://github.com/mcfloundinho/PanRust)
