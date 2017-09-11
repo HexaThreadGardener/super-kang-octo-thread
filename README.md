@@ -23,7 +23,27 @@
 |我已经死了，你还没死|kingium|Sun|
 |去你妈的青春<br>![陆大爷](http://ww2.sinaimg.cn/large/006HJ39wgy1feil3xygt0j305v05ujri.jpg)|ZeroWeight|mcfloundinho|
 # Contributor
-
 ## [**Rust**](https://github.com/mcfloundinho/PanRust)
 
 Please contact [mcfloundinho](https://github.com/mcfloundinho) if you encounter 404.
+
+## Rules  
+
+### dictionary
+|Word|Contributor|Finalist|
+|:--|:-----------|:-------|
+|词名或句名|第一次（在周边）可考证的说这个词的人（如果没有则为贡献者）|让这个词彻底火了的人|  
+
+
+
+### 涉及人名（具体是谁请自行脑补） （请自行更新）
+- ZeroWeight& ZeroWT & ZW & ZWT
+- Mcfloudinho
+- SuperK
+- YQY
+- Archer
+- joking
+- kingium
+- Sun
+
+
