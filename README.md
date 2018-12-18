@@ -20,7 +20,7 @@
 |![D-YQY](http://p1.bpimg.com/4851/91d36da3d1587e80.png)|mcfloundinho|mcfloundinho|
 |奥本憨|Joking|ZeroWeight&mcfloundinho|
 |你好哇，尹秋阳|mcfloundinho|你好哇，尹秋阳|
-|我已经死了，你还没死|kingium|Sun|
+|我已经死了，你还没死|~~kingium~~goldsail|Sun|
 |去你妈的青春<br>![陆大爷](http://ww2.sinaimg.cn/large/006HJ39wgy1feil3xygt0j305v05ujri.jpg)|ZeroWeight|mcfloundinho|
 # Contributor
 ## [**Rust**](https://github.com/mcfloundinho/PanRust)
@@ -43,7 +43,7 @@ Please contact [mcfloundinho](https://github.com/mcfloundinho) if you encounter 
 - YQY
 - Archer
 - joking
-- kingium
+- ~~kingium~~goldsail
 - Sun
 
 
